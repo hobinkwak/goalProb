@@ -10,7 +10,7 @@ Estimation of Goal Achieving Probabilities
 
 ## Example
 - Portfolio: All Weather Portfolio (SPY, TLT, IEF, GLD, DBC)
-- Assume an investor wants to know the probability that the wealth, which was 200 in January 2020, will be 220 or 250 in December 2021
+- Assume an investor wants to know the probability that the wealth, which was 200 in January 2020, will be greater than 220 or 250 in December 2021
   - no additional cashflows excluding initial wealth
   - you can consider cashflows plans using `model.add_cashflow()` method.
 ### Result
